@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+- 👋 Hi
 - 👀 I’m interested in coding and find new stuff
 - 🌱 I’m currently learning Software engineering
 - 📫 contact me: lmt9823@gmail.com
